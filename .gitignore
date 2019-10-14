@@ -50,3 +50,4 @@ output/*/index.html
 docs/_build
 .settings/
 xhtml2pdf.sh
+xhtml2pdf.dot  
